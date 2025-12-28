@@ -1,12 +1,62 @@
 ## Olá! Eu sou Yago Jordas 👋
 
-<div align="center">
+<h2>Tecnologias</h2>
+<div>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=yago-jnp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"
-    height="180em"
+    src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" 
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yago-jnp&layout=compact&langs_count=16&theme=dracula&cache_seconds=1800"
-    height="180em"
+    src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" 
+  />
+  <img
+    src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white" 
+  />
+  <img
+    src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" 
+  />
+</div>
+
+<div>
+  <img
+    src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" 
+  />
+  <img
+    src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" 
+  />
+  <img
+    src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
+  />
+  <img
+    src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" 
+  />
+</div>
+
+<div>
+  <img
+    src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" 
+  />
+  <img 
+    src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Firebase-DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white" 
+  />
+  <img
+    src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white" 
+  />
+</div>
+
+<div>
+  <img
+    src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" 
+  />
+  <img
+    src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" 
+  />
+  <img
+    src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" 
+  />
+  <img
+    src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" 
   />
 </div>
