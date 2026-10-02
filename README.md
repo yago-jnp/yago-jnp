@@ -47,7 +47,7 @@
         <br />
         Universidade Estadual da Paraíba (UEPB) · Campina Grande Campus
         <br />
-        <sub>2026 – 2029 · Expected graduation</sub>
+        <sub>2026 – 2029</sub>
       </td>
     </tr>
   </table>
@@ -64,7 +64,7 @@
         <a href="https://github.com/yago-jnp/kez.ia">
           <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=yago-jnp&repo=kez.ia&theme=dracula&hide_border=true"
-            alt="kez.ia"
+            alt="kez.ia repository"
           />
         </a>
       </td>
@@ -72,7 +72,7 @@
         <a href="https://github.com/yago-jnp/luciene-modas">
           <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=yago-jnp&repo=luciene-modas&theme=dracula&hide_border=true"
-            alt="luciene-modas"
+            alt="luciene-modas repository"
           />
         </a>
       </td>
@@ -82,7 +82,7 @@
         <a href="https://github.com/yago-jnp/apirently">
           <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=yago-jnp&repo=apirently&theme=dracula&hide_border=true"
-            alt="apirently"
+            alt="apirently repository"
           />
         </a>
       </td>
@@ -131,15 +131,11 @@
     </tr>
     <tr>
       <td><strong>Back-end</strong></td>
-      <td>Node.js, Express.js, Fastify <!--, NestJS -->, FastAPI <!--, Spring Boot --></td>
+      <td>Node.js, Express.js, Fastify <!--, NestJS -->, FastAPI <!--, Spring Boot --><!--, Prisma ORM -->, Drizzle ORM, SQLAlchemy, Alembic</td>
     </tr>
     <tr>
       <td><strong>Databases</strong></td>
       <td>PostgreSQL, MongoDB</td>
-    </tr>
-    <tr>
-      <td><strong>ORMs</strong></td>
-      <td><!-- Prisma ORM, -->Drizzle, SQLAlchemy, Alembic</td>
     </tr>
     <tr>
       <td><strong>Services</strong></td>
