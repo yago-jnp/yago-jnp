@@ -1,6 +1,6 @@
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=FF5722,FF7043,FF8A65,FFAB91&animation=twinkling"
+  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=FF5722,FF7043,FF8A65,FFAB91&animation=twinkling"
 />
 
 <h1 align="center">Yago Jordas</h1>
@@ -159,5 +159,5 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=FF5722,FF7043,FF8A65,FFAB91"
+  src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=FF5722,FF7043,FF8A65,FFAB91"
 />
