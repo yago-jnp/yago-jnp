@@ -29,19 +29,34 @@
 
 <br />
 
----
+## Education
 
-<br />
+<table>
+  <tr>
+    <td>
+      <strong>Integrated High School with Technical Education in Informatics</strong>
+      <br />
+      Instituto Federal da Paraíba (IFPB) · Esperança Campus
+      <br />
+      <sub>2023 – 2025</sub>
+    </td>
+  </tr>
 
-## Academic Background
-
-- Integrated High School Diploma with a **Technical Certificate in Information Technology** (2023-2025), Instituto Federal da Paraíba (IFPB), Esperança Campus.
-- **Bachelor's Degree in Computer Science** (2026-2029), Universidade Estadual da Paraíba (UEPB), Campina Grande Campus.
+  </tr>
+    <td>
+      <strong>Bachelor's Degree in Computer Science</strong>
+      <br />
+      Universidade Estadual da Paraíba (UEPB) · Campina Grande Campus
+      <br />
+      <sub>2026 – 2029 · Expected graduation</sub>
+    </td>
+  </tr>
+</table>
 
 <!-- :---: -->
 <br />
 
-## Projects
+## Featured Projects
 
 <!--
 |                       **Repository**                       | **Description** | **Technologies** |
@@ -51,9 +66,43 @@
 |     [apirently](https://github.com/yago-jnp/apirently)     |       ...       |       ...        |
 -->
 
-[![kez.ia](https://github-readme-stats.vercel.app/api/pin/?username=yago-jnp&repo=kez.ia&theme=dracula&hide_border=true)](https://github.com/yago-jnp/kez.ia)
-[![luciene-modas](https://github-readme-stats.vercel.app/api/pin/?username=yago-jnp&repo=luciene-modas&theme=dracula&hide_border=true)](https://github.com/yago-jnp/luciene-modas)
-[![apirently](https://github-readme-stats.vercel.app/api/pin/?username=yago-jnp&repo=apirently&theme=dracula&hide_border=true)](https://github.com/yago-jnp/apirently)
+<div align="left">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/yago-jnp/kez.ia">
+          <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=yago-jnp&repo=kez.ia&theme=dracula&hide_border=true"
+            alt="kez.ia"
+          />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/yago-jnp/luciene-modas">
+          <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=yago-jnp&repo=luciene-modas&theme=dracula&hide_border=true"
+            alt="luciene-modas"
+          />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/yago-jnp/apirently">
+          <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=yago-jnp&repo=apirently&theme=dracula&hide_border=true"
+            alt="apirently"
+          />
+        </a>
+      </td>
+      <td width="50%"></td>
+    </tr>
+  </table>
+  
+  <p>
+    <i>Explore my repositories to discover my projects, implementations, and experiments.</i>
+  </p>
+</div>
 
 <!-- :---: -->
 <br />
@@ -77,24 +126,36 @@
 
 ## GitHub Analysis
 
-<div>
-  <img
-    align="left"
-    width="44.5%"
-    src="https://github-readme-stats.vercel.app/api?username=yago-jnp&show_icons=true&theme=dracula&hide_border=true"
-    alt="GitHub Stats"
-  />
+<div align="left">
+  <div>
+    <img
+      width="50%"
+      src="https://github-readme-stats.vercel.app/api?username=yago-jnp&show_icons=true&rank_icon=github&theme=dracula&hide_border=true"
+      alt="GitHub statistics"
+    />
+    <img
+      width="45%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yago-jnp&layout=compact&langs_count=8&theme=dracula&hide_border=true"
+      alt="Most used programming languages"
+    />
+  </div>
   
-  <img
-    align="right"
-    width="40%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yago-jnp&layout=compact&theme=dracula&hide_border=true"
-    alt="Most used languages"
-  />
-  <br clear="both" />
+  <br />
+  
+  <div>
+    <img
+      width="95%"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=yago-jnp&theme=dracula&hide_border=true"
+      alt="GitHub contribution streak"
+    />
+  </div>
 </div>
 
 ---
+
+<p align="center">
+  <i>Always learning. Always building.</i>
+</p>
 
 <img
   width="100%"
