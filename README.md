@@ -33,14 +33,6 @@
 
 <br />
 
-<img
-  width="100%"
-  src="https://github-readme-stats.vercel.app/api?username=yago-jnp&show_icons=true&theme=dracula&hide_border=true"
-  alt="GitHub Stats"
-/>
-
-<br />
-
 ## Academic Background
 
 - Integrated High School Diploma with a **Technical Certificate in Information Technology** (2023-2025), Instituto Federal da Paraíba (IFPB), Esperança Campus.
@@ -83,11 +75,24 @@
 
 <br />
 
-<img
-  width="100%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yago-jnp&layout=compact&theme=dracula&hide_border=true"
-  alt="Most used languages"
-/>
+## GitHub Analysis
+
+<div>
+  <img
+    align="left"
+    width="44.5%"
+    src="https://github-readme-stats.vercel.app/api?username=yago-jnp&show_icons=true&theme=dracula&hide_border=true"
+    alt="GitHub Stats"
+  />
+  
+  <img
+    align="right"
+    width="40%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yago-jnp&layout=compact&theme=dracula&hide_border=true"
+    alt="Most used languages"
+  />
+  <br clear="both" />
+</div>
 
 ---
 
