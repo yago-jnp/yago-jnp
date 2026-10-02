@@ -29,45 +29,36 @@
 
 <br />
 
-## Education
+<section align="center">
+  <h2>Education</h2>
+  <table align="center">
+    <tr>
+      <td>
+        <strong>Integrated High School with Technical Education in Informatics</strong>
+        <br />
+        Instituto Federal da Paraíba (IFPB) · Esperança Campus
+        <br />
+        <sub>2023 – 2025</sub>
+      </td>
+    </tr>  
+    </tr>
+      <td>
+        <strong>Bachelor's Degree in Computer Science</strong>
+        <br />
+        Universidade Estadual da Paraíba (UEPB) · Campina Grande Campus
+        <br />
+        <sub>2026 – 2029 · Expected graduation</sub>
+      </td>
+    </tr>
+  </table>
+</section>
 
-<table>
-  <tr>
-    <td>
-      <strong>Integrated High School with Technical Education in Informatics</strong>
-      <br />
-      Instituto Federal da Paraíba (IFPB) · Esperança Campus
-      <br />
-      <sub>2023 – 2025</sub>
-    </td>
-  </tr>
-
-  </tr>
-    <td>
-      <strong>Bachelor's Degree in Computer Science</strong>
-      <br />
-      Universidade Estadual da Paraíba (UEPB) · Campina Grande Campus
-      <br />
-      <sub>2026 – 2029 · Expected graduation</sub>
-    </td>
-  </tr>
-</table>
-
-<!-- :---: -->
 <br />
 
-## Featured Projects
-
-<!--
-|                       **Repository**                       | **Description** | **Technologies** |
-| :--------------------------------------------------------: | :-------------: | :--------------: |
-|        [kez.ia](https://github.com/yago-jnp/kez.ia)        |       ...       |       ...        |
-| [luciene-modas](https://github.com/yago-jnp/luciene-modas) |       ...       |       ...        |
-|     [apirently](https://github.com/yago-jnp/apirently)     |       ...       |       ...        |
--->
-
-<div align="left">
-  <table border="0">
+<section align="center">
+  <h2>Featured Projects</h2>
+  
+  <table align="center" border="0">
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/yago-jnp/kez.ia">
@@ -102,31 +93,79 @@
   <p>
     <i>Explore my repositories to discover my projects, implementations, and experiments.</i>
   </p>
-</div>
+</section>
 
-<!-- :---: -->
-<br />
-
-## Technologies
-
-| **Category**     | **Technologies**                                                            |
-| ---------------- | --------------------------------------------------------------------------- |
-| Languages        | HTML5, CSS3, JavaScript, Python, TypeScript, C <!--, Java -->               |
-| Web              | React, Next.js, shadcn/ui, Ant Design, Lucide React, Tailwind CSS           |
-| Mobile           | React Native<!--, Dart, Flutter -->                                         |
-| Back-end         | Node.js, Express.js, Fastify<!--, NestJS -->, FastAPI <!--, Spring Boot --> |
-| Databases        | PostgreSQL, MongoDB                                                         |
-| ORMs             | <!-- Prisma ORM, -->Drizzle, SQLAlchemy, Alembic                            |
-| Services         | Vercel, Neon<!--, AWS -->, Firebase                                         |
-| DevOps           | <!-- Docker, Kubernetes, Terraform, Grafana -->                             |
-| Package Managers | pnpm, uv                                                                    |
-| Tools            | Git, GitHub                                                                 |
+<!--
+|                       **Repository**                       | **Description** | **Technologies** |
+| :--------------------------------------------------------: | :-------------: | :--------------: |
+|        [kez.ia](https://github.com/yago-jnp/kez.ia)        |       ...       |       ...        |
+| [luciene-modas](https://github.com/yago-jnp/luciene-modas) |       ...       |       ...        |
+|     [apirently](https://github.com/yago-jnp/apirently)     |       ...       |       ...        |
+-->
 
 <br />
 
-## GitHub Analysis
+<section align="center">
+  <h2>Technologies</h2>
 
-<div align="left">
+  <table align="center" border="0">
+  <thead align="left">
+    <tr>
+      <th>Category</th>
+      <th>Technologies</th>
+    </tr>
+  </thead>
+
+  <tbody align="left">
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td>HTML5, CSS3, JavaScript, Python, TypeScript, C <!--, Java --></td>
+    </tr>
+    <tr>
+      <td><strong>Web</strong></td>
+      <td>React, Next.js, shadcn/ui, Ant Design, Lucide React, Tailwind CSS</td>
+    </tr>
+    <tr>
+      <td><strong>Mobile</strong></td>
+      <td>React Native <!--, Dart, Flutter --></td>
+    </tr>
+    <tr>
+      <td><strong>Back-end</strong></td>
+      <td>Node.js, Express.js, Fastify <!--, NestJS -->, FastAPI <!--, Spring Boot --></td>
+    </tr>
+    <tr>
+      <td><strong>Databases</strong></td>
+      <td>PostgreSQL, MongoDB</td>
+    </tr>
+    <tr>
+      <td><strong>ORMs</strong></td>
+      <td><!-- Prisma ORM, -->Drizzle, SQLAlchemy, Alembic</td>
+    </tr>
+    <tr>
+      <td><strong>Services</strong></td>
+      <td>Vercel, Neon <!--, AWS -->, Firebase</td>
+    </tr>
+    <tr>
+      <td><strong>DevOps</strong></td>
+      <td><!-- Docker, Kubernetes, Terraform, Grafana --></td>
+    </tr>
+    <tr>
+      <td><strong>Package Managers</strong></td>
+      <td>pnpm, uv</td>
+    </tr>
+    <tr>
+      <td><strong>Tools</strong></td>
+      <td>Git, GitHub</td>
+    </tr>
+  </tbody>
+</table>
+</section>
+
+<br />
+
+<section align="center">
+  <h2>GitHub Analysis</h2>
+  
   <div>
     <img
       width="50%"
@@ -149,7 +188,7 @@
       alt="GitHub contribution streak"
     />
   </div>
-</div>
+</section>
 
 ---
 
